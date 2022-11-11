@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Programming Assignment 1: Non-Linear Equations
-
-# In[36]:
-
+# Programming Assignment 1: Non-Linear Equations
 
 from sympy import *
 import numpy as np
